@@ -1,0 +1,148 @@
+h1,
+h2 {
+  text-align: center;
+}
+body {
+  background: #b4846c;
+  height: 2300px;
+  display: flexbox;
+}
+.smalh1 {
+  text-align: center;
+}
+.description {
+  text-align: center;
+  line-height: 2;
+}
+.card {
+  width: 18rem;
+  overflow: hidden;
+}
+
+.cardpic {
+  border-radius: 50%;
+  object-fit: cover;
+}
+.cardpiccold {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+}
+.card1 {
+  border-radius: 20px;
+  background: #e5ba73;
+  width: 18rem;
+  position: relative;
+  left: 495px;
+  top: 550px;
+  overflow-y: hidden;
+}
+.card2 {
+  border-radius: 20px;
+  background: #e5ba73;
+  width: 18rem;
+  position: relative;
+  left: 495px;
+  bottom: 210px;
+  overflow-y: hidden;
+}
+
+.card3 {
+  border-radius: 20px;
+  background: #e5ba73;
+  width: 18rem;
+  position: relative;
+  left: 950px;
+  bottom: 595px;
+  overflow-y: hidden;
+}
+
+.card4 {
+  border-radius: 20px;
+  background: #e5ba73;
+  width: 18rem;
+  position: relative;
+  left: 950px;
+  bottom: 510px;
+  overflow-y: hidden;
+}
+
+.card5 {
+  border-radius: 20px;
+  background: #e5ba73;
+  width: 18rem;
+  position: relative;
+  left: 950px;
+  bottom: 450px;
+  overflow-y: hidden;
+}
+
+.card6 {
+  border-radius: 20px;
+  background: #e5ba73;
+  width: 18rem;
+  position: relative;
+  left: 75px;
+  bottom: 1650px;
+  overflow-y: hidden;
+}
+
+.card7 {
+  border-radius: 20px;
+  background: #e5ba73;
+  width: 18rem;
+  position: relative;
+  left: 75px;
+  bottom: 1590px;
+  overflow-y: hidden;
+}
+
+.card8 {
+  border-radius: 20px;
+  background: #e5ba73;
+  width: 18rem;
+  position: relative;
+  left: 75px;
+  bottom: 1520px;
+  overflow-y: hidden;
+}
+
+.card9 {
+  border-radius: 20px;
+  background: #e5ba73;
+  width: 18rem;
+  position: relative;
+  left: 495px;
+  bottom: 1870px;
+  overflow-y: hidden;
+}
+.card-body {
+  margin: 1%;
+}
+#footer {
+  text-align: center;
+  line-height: 1.5;
+}
+
+#cta {
+  text-align: center;
+  background-color: #b09b71;
+  padding: 7% 15%;
+}
+
+.social-icons {
+  padding: 10px;
+}
+.btmftpg {
+  position: relative;
+  bottom: 1600px;
+}
+.justificationtxt {
+  position: relative;
+  bottom: 1750px;
+  text-align: center;
+}
+#download {
+  padding: 2px;
+}
