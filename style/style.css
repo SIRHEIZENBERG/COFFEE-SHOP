@@ -148,7 +148,7 @@ body {
   margin: 10px;
 }
 
-@media screen and (max-width: 600px) {
+@media (max-width: 767px) {
   .card1,
   .card2,
   .card3,
@@ -158,7 +158,6 @@ body {
   .card7,
   .card8,
   .card9 {
-    display: flex;
-    flex-direction: column;
+    overflow: hidden;
   }
 }
